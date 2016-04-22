@@ -1,11 +1,11 @@
 {
-    "productId":"",
-    "dsn":"",
-    "provisioningMethod":"",
+    "productId":"testdevice",
+    "dsn":"12345",
+    "provisioningMethod":"companionService",
     "companionApp":{
         "localPort":8443,
         "sslKeyStore":"",
-        "sslKeyStorePassphrase":"",
+        "sslKeyStorePassphrase":"alexa",
         "lwaUrl":"https://api.amazon.com"
     },
     "companionService":{
