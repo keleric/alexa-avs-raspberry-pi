@@ -1,5 +1,5 @@
 {
-    "productId":"testdevice",
+    "productId":"better?",
     "dsn":"12345",
     "provisioningMethod":"companionService",
     "companionApp":{
@@ -11,7 +11,7 @@
     "companionService":{
         "serviceUrl":"https://localhost:3000",
         "sslClientKeyStore":"",
-        "sslClientKeyStorePassphrase":"",
+        "sslClientKeyStorePassphrase":"alexa",
         "sslCaCert":""
     }
 }
